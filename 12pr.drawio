@@ -90,6 +90,18 @@
             <mxPoint x="429" y="160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="P5Qxn4z2fZMX_hnlpwAX-36" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;br&gt;&lt;div&gt;ДА&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="450" y="640" as="geometry" />
+        </mxCell>
+        <mxCell id="P5Qxn4z2fZMX_hnlpwAX-37" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="нет" vertex="1">
+          <mxGeometry height="30" width="60" x="740" y="640" as="geometry" />
+        </mxCell>
+        <mxCell id="P5Qxn4z2fZMX_hnlpwAX-38" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="нет" vertex="1">
+          <mxGeometry height="30" width="60" x="330" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="P5Qxn4z2fZMX_hnlpwAX-39" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="да" vertex="1">
+          <mxGeometry height="30" width="60" x="480" y="330" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
